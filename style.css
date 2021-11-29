@@ -234,7 +234,7 @@ aside{
   margin-top: 7%;
   color: white;
   font-size: 18px;
-  text-shadow: white 15px
+  text-shadow: white 15px;
 
 }
 .but2{
@@ -255,7 +255,7 @@ background-color: blue;
 footer{
   background-color: rgb(65, 64, 64);
   height: 150px;
-  padding-bottom: 90px;
+  padding-bottom: 90p
 }
 .tesla{
   display: flex;
