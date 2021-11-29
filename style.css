@@ -217,7 +217,7 @@ aside{
   margin-left: 40%;
   font-size: 35px;
 }
-.stars
+.stars{
     background-image: url(./school1.jpg);
     width: 100%;
     height: 260px;
@@ -252,7 +252,7 @@ background-color: blue;
   color: white;
   margin-top: 40px;
 }
-footer{
+footer
   background-color: rgb(65, 64, 64);
   height: 150px;
   padding-bottom: 90px;
