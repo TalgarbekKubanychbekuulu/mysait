@@ -51,7 +51,7 @@
   .col-12 {
     flex: 0 0 100%;
   }
-  .container 
+  .container {
     max-width: 1000px;
     margin: 0 auto;
   }
@@ -75,7 +75,7 @@
   
   } */
    */
-  .column1{
+  .column1
       flex:1 0 0;
       text-align: center;
      
