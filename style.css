@@ -84,7 +84,7 @@ h2{
 .ex4{
   font-size: 18px;
     color: gray;
-    text-decoration: none
+    text-decoration: none;
 }
 .exex{
   font-size: 40px;
@@ -97,7 +97,7 @@ h2{
   align-items: center;
   gap: 30px;
   justify-content: space-around;
-  padding: 10px;
+  padding: 10px
   
 }
 [class^="col"] {
