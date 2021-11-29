@@ -255,7 +255,7 @@ background-color: blue;
 footer{
   background-color: rgb(65, 64, 64);
   height: 150px;
-  padding-bottom: 90p
+  padding-bottom: 90px;
 }
 .tesla{
   display: flex;
@@ -266,7 +266,7 @@ footer{
 }
 .tesla1{
   color: #FFFFFF;
-  text-decoration: none;
+  text-decoration: non
   margin-left: 10%;
   font-size: 13px;
 }
