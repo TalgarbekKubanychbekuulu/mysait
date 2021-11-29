@@ -162,7 +162,7 @@ h2{
     background-color: green;
     /* width: 330px; */
 }
-.other1 .a{
+.other1 .a
     background-color: rgba(12, 119, 12, 0.712);
     color:white;
     padding:5px;
@@ -266,7 +266,7 @@ footer{
 }
 .tesla1{
   color: #FFFFFF;
-  text-decoration: non
+  text-decoration: none;
   margin-left: 10%;
   font-size: 13px;
 }
