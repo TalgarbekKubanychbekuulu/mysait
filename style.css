@@ -158,11 +158,11 @@ h2{
     padding:.5rem;
     height: 162px;
 }
-.other1 .another{
+.other1 .another
     background-color: green;
     /* width: 330px; */
 }
-.other1 .a
+.other1 .a{
     background-color: rgba(12, 119, 12, 0.712);
     color:white;
     padding:5px;
