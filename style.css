@@ -92,7 +92,7 @@ h2{
 }
 
 
-.row 
+.row {
   display: flex;
   align-items: center;
   gap: 30px;
@@ -182,7 +182,7 @@ h2{
   font-size: 15px;
   color: #252525;
 }
-aside{
+aside
   background-image: url(./sini.jpg);
   width: 100%;
   height: 260px;
