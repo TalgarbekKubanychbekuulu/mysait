@@ -154,7 +154,7 @@ h2{
 }
 .other1 div{
     border:1px solid rgb(236, 233, 233);
-    border-radius:5px
+    border-radius:5px;
     padding:.5rem;
     height: 162px;
 }
@@ -234,7 +234,7 @@ aside{
   margin-top: 7%;
   color: white;
   font-size: 18px;
-  text-shadow: white 15px;
+  text-shadow: white 15px
 
 }
 .but2{
