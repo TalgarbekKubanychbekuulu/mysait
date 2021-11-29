@@ -71,8 +71,8 @@ ul {
   color:black;
 }
 header{
-    background-image: url(./ot.jpg)
-    width: 100%;
+    background-image: url(./ot.jpg);
+    width: 100%
     height: 400px;
     background-position: center;
     background-size: cover;
