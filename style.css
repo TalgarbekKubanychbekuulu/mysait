@@ -76,10 +76,10 @@ header{
     height: 400px;
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
 }
 h2{
-    margin-top: 10%;
+    margin-top: 10%
 }
 .ex4{
   font-size: 18px;
