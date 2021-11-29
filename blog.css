@@ -75,12 +75,12 @@
   
   } */
    */
-  .column1
+  .column1{
       flex:1 0 0;
       text-align: center;
      
   }
-  .other11 div{
+  .other11 div
       border:1px solid gray;
       border-radius:5px;
       padding:0.1rem;
