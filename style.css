@@ -12,7 +12,7 @@ ul {
   font-size: 15px;
   margin-left: 190px;
 }
-.navb
+.navbar {
   font-size: 20px;
   width: 100%;
   height: 50px;
@@ -55,7 +55,7 @@ ul {
   margin: 0 auto;
   padding: 0.5rem;
 }
-.hero {
+.hero 
   min-height: 50vh;
   padding: 0 15% 50px;
   padding-bottom: 50px;
