@@ -141,10 +141,10 @@ h2{
 .col-11 {
   flex: 0 0 91.66666667%;
 }
-.col-12 {
+.col-12 
   flex: 0 0 100%;
 }
-.container55 
+.container55 {
   max-width: 70%;
   margin: 0 auto;
 }
