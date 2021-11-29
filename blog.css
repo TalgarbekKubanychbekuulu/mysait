@@ -1,8 +1,8 @@
 .rowt {
     display: flex;
     align-items: center;
-    gap: 10px
-    justify-content: space-around;
+    gap: 10px;
+    justify-content: space-around
     padding: 15px;
     
   }
